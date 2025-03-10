@@ -1,0 +1,35 @@
+/**  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fafafa;
+}
+div.box-shadow img{
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px #000;
+}
+.img {
+    display: block;
+    width: 400px;
+    margin: 30px auto;
+    
+}
+
+
+div.drop-shadow img {
+    filter: drop-shadow(10px 10px 20px green )   ;
+    
+} */
+
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
